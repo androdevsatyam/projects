@@ -1,6 +1,6 @@
-**Last updated:** {{DATE}}
+**Last updated:** 17-DEC-2025
 
-This Privacy Policy applies to all mobile applications published by **{{DEVELOPER_NAME}}** ("we", "our", "us"), including but not limited to the projects listed in this repository.
+This Privacy Policy applies to all mobile applications published by **Satyam** ("we", "our", "us"), including but not limited to the projects listed in this repository.
 
 ---
 
@@ -67,8 +67,8 @@ Any changes will be reflected on this page, and the **Last updated** date will b
 
 If you have any questions or concerns about this Privacy Policy, please contact us:
 
-📧 **Email:** {{CONTACT_EMAIL}}
+📧 **Email:** satyam8690771+aquasort_support@gmail.com
 
 ---
 
-**Developer:** {{DEVELOPER_NAME}}
+**Developer:** Satyam
