@@ -1,3 +1,5 @@
+# Aqua Sort: Liquid Color Puzzle
+
 **Last updated:** 17-DEC-2025
 
 This Privacy Policy applies to all mobile applications published by **Satyam** ("we", "our", "us"), including but not limited to the projects listed in this repository.
