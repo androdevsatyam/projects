@@ -1,6 +1,3 @@
----
-layout: none
----
 
 # Aqua Sort: Liquid Color Puzzle
 
