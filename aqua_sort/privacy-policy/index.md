@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 # Aqua Sort: Liquid Color Puzzle
 
 **Last updated:** 17-DEC-2025
